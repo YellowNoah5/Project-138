@@ -1,0 +1,33 @@
+body
+{
+
+    background-size: cover;
+}
+
+.header
+{
+    width: 100% !important;
+    font-size: 30px !important;
+    margin-top: 0;
+    text-align: left;
+}
+
+.header button
+{
+    float: right
+}
+
+.header h1
+{
+    display: inline;
+}
+
+.start
+{
+    font-size: 23px !important;
+    width: 100px;
+    letter-spacing: 1px;
+}
+
+
+
